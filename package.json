@@ -1,0 +1,31 @@
+{
+  "name": "cms-pro",
+  "version": "1.0.0",
+  "description": "A CMS Application using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "CMS",
+    "Pro",
+    "Angular"
+  ],
+  "author": "Pardeep K. Singhal",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "loger": "^0.2.3",
+    "mongoose": "^5.2.12",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  }
+}
